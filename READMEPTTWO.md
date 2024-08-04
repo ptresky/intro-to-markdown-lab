@@ -107,4 +107,4 @@ External script tags will be placed just before the ending body tag. This is whe
 You should add an HTML 5 boilerplate to each of your HTML pages. This starter code contains important information like the doctype, metadata, external stylesheets and script tags.
 
 ##### References
-1. Jessic Wilkins: [Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project](https://unsplash.com/photos/programmer-and-ux-ui-designer-working-in-a-software-development-and-coding-technologies-mobile-and-website-design-and-programing-development-technology-CjkMRKROMKQ)
+1. Jessica Wilkins: [Basic HTML5 Template: Use This HTML Boilerplate as a Starter for Any Web Dev Project](https://unsplash.com/photos/programmer-and-ux-ui-designer-working-in-a-software-development-and-coding-technologies-mobile-and-website-design-and-programing-development-technology-CjkMRKROMKQ)
